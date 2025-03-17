@@ -1,10 +1,10 @@
 ---
 # 【1 in English】Display name 
-title: 邱雨奇
+title: Yuqi Qiu
 
 # 【2 in English】Full name (for SEO)
-first_name: 雨奇
-last_name: 邱
+first_name: Yuqi
+last_name: Qiu
 
 
 # 【3 年份】Role/position
@@ -83,3 +83,5 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 ---
+
+全民制作人大家好。我是练习时长半年的个人练习生邱雨奇，喜欢唱，跳，Rap，篮球。Music.
