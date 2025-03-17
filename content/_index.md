@@ -73,7 +73,6 @@ sections:
     content:
       title: "News"
       text: '
-      **Mar 2025 -** FFT got Accepted by ICS 2025. <br>
       **Mar 2025 -** FFT got Accepted by ICS 2025.  <br>
       **Jan 2025 -** Imbres got accepted by ASPLOS 2025. <br>
       **Dec 2024 -** FastPERT got accepted by AAAI 2025. <br>
