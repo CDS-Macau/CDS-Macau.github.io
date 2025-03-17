@@ -1,14 +1,14 @@
 ---
 # 【1 in English】Display name 
-title: Chengzhi Lu
+title: Liao Chen
 
 # 【2 in English】Full name (for SEO)
-first_name: Chengzhi 
-last_name: Lu 
+first_name: Liao
+last_name: Chen
 
 
 # 【3 年份】Role/position
-role: 2025 - Current
+role: 2022 - Current
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -16,23 +16,25 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include resource manangement and task scheduling in the large scale cluster.
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Resource Management
-  - Task scheduling
+  - Freedom of time and money
+  - Cloud Computing
+  - Distributed System
+
 
 education:
   courses:
     - course: PhD in Computer Science
-      institution: University of Chinese Academy of Sciences
-      year: 2025 
-    - course: MSc in Software Engineering
-      institution: Zhejiang University
+      institution: University of Macau
+      year: 2022-Current
+    - course: MEng in Computer Science and Technology
+      institution: Sichuan University
+      year: 2021
+    - course: BSc in Digital Media Technology
+      institution: Shandong University
       year: 2018
-    - course: BSc in Computer Science 
-      institution: Wuhan University
-      year: 2016 
 
 # 【6 身份，下面其中一个】Organizational groups that you belong to (for People widget)
 #  
@@ -44,7 +46,7 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - Postdoc 
+  - PhD Student
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,7 +72,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'chengzhilu@um.edu.mo'
+email: 'chenliaao@gmail.com'
 
 
 
@@ -83,4 +85,4 @@ authors:
 superuser: false
 ---
 
-
+Liao Chen is currently pursuing his PhD at the University of Macau, where he specializes in the field of distributed systems. His research primarily centers on resource management, with a particular focus on microservices frameworks.

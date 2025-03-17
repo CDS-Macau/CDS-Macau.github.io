@@ -133,13 +133,14 @@ sections:
   #     view:  card     
   #     columns: '1'
   - block: collection
+    id: publications
     content:
       title: Publications
       text: ""
       count: 10
       filters:
         folders:
-          - publication
+          - "publication"
         publication_type: 
     design:
       view: citation
