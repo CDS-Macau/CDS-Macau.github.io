@@ -1,14 +1,14 @@
 ---
 # 【1 in English】Display name 
-title: 皮卡丘
+title: Wenyan Chen
 
 # 【2 in English】Full name (for SEO)
-first_name: 卡丘
-last_name: 皮
+first_name: Wenyan
+last_name: Chen
 
 
 # 【3 年份】Role/position
-role: 2024 - Current
+role: 2021 - Current
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cloud computing and Systems for ML.
 
 interests:
   - Artificial Intelligence

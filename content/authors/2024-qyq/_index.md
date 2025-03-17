@@ -1,10 +1,10 @@
 ---
 # 【1 in English】Display name 
-title: 皮卡丘
+title: 邱雨奇
 
 # 【2 in English】Full name (for SEO)
-first_name: 卡丘
-last_name: 皮
+first_name: 雨奇
+last_name: 邱
 
 
 # 【3 年份】Role/position
@@ -12,11 +12,11 @@ role: 2024 - Current
 
 # 【4 组织】Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Macau
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include singing, dancing, rapping, and basketball. Music.
 
 interests:
   - Artificial Intelligence
@@ -25,15 +25,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    - course: MSc in Computer Science and Technology
+      institution: Harbin Institute of Technology
+      year: 2024
+    - course: BSc in Computer Science and Technology
+      institution: Shandong University
+      year: 2021
 
 # 【6 身份，下面其中一个】Organizational groups that you belong to (for People widget)
 #  
@@ -71,7 +71,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'yc47436@connect.um.edu.mo'
 
 
 
@@ -83,7 +83,3 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 ---
-
-皮卡丘（日语：ピカチュウ，罗马化：Pikachu，粤语旧译：比卡超）是《宝可梦》系列里1025种宝可梦其中之一，出现在该系列的各种电子游戏、动画、电影、卡牌游戏、漫画和其它周边产品。皮卡丘由西田敦子构思，并由杉森建完成设计。首次登场于《宝可梦 红／绿》，由于受到电视动画的影响，皮卡丘拥有极高的知名度，成为宝可梦系列的象征。
-
-其名字由日文中光线的状声词 “Pika”（ピカ），亦有鼠兔之意、以及老鼠的叫声“啾啾”（チュウ）组合而成[1]。
