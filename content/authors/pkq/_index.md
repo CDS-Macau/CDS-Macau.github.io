@@ -1,14 +1,14 @@
 ---
 # 【1 in English】Display name 
-title: 皮卡丘
+title: Pikachu 
 
 # 【2 in English】Full name (for SEO)
-first_name: 卡丘
-last_name: 皮
+first_name: Pika
+last_name: Chu
 
 
 # 【3 年份】Role/position
-role: 2024 - Current
+role: 2030 - Current
 
 # 【4 组织】Organizations/Affiliations
 organizations:

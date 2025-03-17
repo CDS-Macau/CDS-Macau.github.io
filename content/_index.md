@@ -54,6 +54,22 @@ sections:
     #   interval: 2000
     
   # 横幅需要一点时间，在resume里
+
+  # - block: biography
+  #   content:
+  #     username: admin
+  #     # Show a call-to-action button under your biography? (optional)
+  #     button:
+  #       text: Download Résumé
+  #       url: uploads/resume.pdf
+  #   design:
+  #     banner:
+  #       # Upload your cover image to the `assets/media/` folder and reference it here
+  #       filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+  #     biography:
+  #       # Customize the style of your biography text
+  #       style: 'text-align: justify; font-size: 0.8em;'
+
   - block: hero
     content:
       title: |
@@ -139,24 +155,24 @@ sections:
       show_social: false
 
   # Publications
-  - block: collection
-    id: publications
-    content:
-      title: Publications
-      subtitle: "You can also search all the papers [here](./publication)."
-      text: 
-      filters:
-        folders:
-          - publication
-        publication_type: 
-    design:
-      view:  card     
-      columns: '1'
+  # - block: collection
+  #   id: publications
+  #   content:
+  #     title: Publications
+  #     subtitle: "You can also search all the papers [here](./publication)."
+  #     text: 
+  #     filters:
+  #       folders:
+  #         - publication
+  #       publication_type: 
+  #   design:
+  #     view:  card     
+  #     columns: '1'
   - block: collection
     content:
       title: Publications
       text: ""
-      count: 2
+      count: 10
       filters:
         folders:
           - publication

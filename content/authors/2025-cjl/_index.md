@@ -1,6 +1,6 @@
 ---
 # 【1 in English】Display name 
-title: Junlin chen
+title: Junlin Chen
 
 # 【2 in English】Full name (for SEO)
 first_name: Junlin
@@ -16,12 +16,10 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My current research interests are broadly in the intersection between systems and machine learning, performance optimization and efficient scheduling of LLM systems for instance.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
 
 education:
   courses:
@@ -78,4 +76,6 @@ authors:
 superuser: false
 ---
 
-我爱学习！！！！！！！
+I am a 4th-year CS undergraduate student at Beihang University. I am also an exchange student at University of Macau. I will be a first-year PhD student at University of Macau in August 2025, under the supervision of Prof. Huanle Xu.
+
+My current research interests are broadly in the intersection between systems and machine learning.
