@@ -5,93 +5,42 @@ date: 2022-10-24
 type: landing
 
 sections:
-  # - block: slider
-  #   id: overview
-  #   content:
-  #     slides:
-  #     - title: CDS Lab at UM
-  #       content: Cloud and Distributed Systems Lab
-  #       align: left
-  #       background:
-  #         image:
-  #           filename: jienigui.jpg
-  #           filters:
-  #             brightness: 0.7
-  #         position: right
-  #         color: '#666'
-      # - title: Lunch & Learn ☕️
-      #   content: 'Share your knowledge with the group and explore exciting new topics together!'
-      #   align: left
-      #   background:
-      #     image:
-      #       filename: contact.jpg
-      #       filters:
-      #         brightness: 0.7
-      #     position: center
-      #     color: '#555'
-      # - title: World-Class Semiconductor Lab
-      #   content: 'Just opened last month!'
-      #   align: right
-      #   background:
-      #     image:
-      #       filename: welcome.jpg
-      #       filters:
-      #         brightness: 0.5
-      #     position: center
-      #     color: '#333'
-      #   link:
-      #     icon: graduation-cap
-      #     icon_pack: fas
-      #     text: Join Us
-      #     url: ../contact/
-    # design:
-    #   # Slide height is automatic unless you force a specific height (e.g. '400px')
-    #   slide_height: ''
-    #   is_fullscreen: true
-    #   # Automatically transition through slides?
-    #   loop: false
-    #   # Duration of transition between slides (in ms)
-    #   interval: 2000
-    
-  # 横幅需要一点时间，在resume里
-
-  # - block: biography
-  #   content:
-  #     username: admin
-  #     # Show a call-to-action button under your biography? (optional)
-  #     button:
-  #       text: Download Résumé
-  #       url: uploads/resume.pdf
-  #   design:
-  #     banner:
-  #       # Upload your cover image to the `assets/media/` folder and reference it here
-  #       filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
-  #     biography:
-  #       # Customize the style of your biography text
-  #       style: 'text-align: justify; font-size: 0.8em;'
-
-  - block: hero
+  - block: slider
+    id: overview
     content:
-      title: |
-        CDS Lab
-      image:
-        filename: UM_2.jpg
-      text: | 
-        **CDS Lab**(Cloud and Distributed Systems Lab) is from the Department of Computer and Information Science at University of Macau, led by Prof. Huanle Xu.
-
-  # - block: markdown
-  #   content:
-  #     title: "CDS Lab"
-  #     subtitle: 'Cloud and Distributed Systems Lab'
-  #     text: "
-  #     **CDS Lab**(Cloud and Distributed Systems Lab) from the Department of Computer and Information Science at University of Macau, led by Prof. Huanle Xu.
-  #     <br>.....<br> 
-  #     "
-  #   design:
-  #     columns: '2'
-  #     spacing:
-  #       padding: ['100px', '0', '100px', '0']
-  #     css_class: 
+      slides:
+      - title: CDS Lab
+        content: Cloud and Distributed Systems Lab
+        align: left
+        background:
+          image:
+            filename: background.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#666'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '200px'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+  
+  # About
+  - block: markdown
+    content:
+      title: "About CDS Lab"
+      subtitle: ''
+      text: "
+      **CDS Lab**(Cloud and Distributed Systems Lab) is from the Department of Computer and Information Science at University of Macau, led by Prof. Huanle Xu.
+      "
+    design:
+      columns: '2'
+      spacing:
+        padding: ['100px', '0', '100px', '0']
+      css_class: 
 
   # Research Topic
   - block: markdown
@@ -125,6 +74,22 @@ sections:
       title: "News"
       text: '
       **Mar 2025 -** FFT got Accepted by ICS 2025. <br>
+      **Mar 2025 -** FFT got Accepted by ICS 2025.  <br>
+      **Jan 2025 -** Imbres got accepted by ASPLOS 2025. <br>
+      **Dec 2024 -** FastPERT got accepted by AAAI 2025. <br>
+      **Nov 2024 -** Grad got accepted by HPCA 2025. <br>
+      **Oct 2024 -** One paper (on analysis of  bandit algorithm) got accepted by Journal of Artificial Intelligence Research (JAIR).  <br>
+      **July 2024 -** Mudi got accepted by Eurosys 2025. <br>
+      **Jun 2024 -** SMIless got accepted by SC 2024. <br>
+      **Apr 2024 -** One paper (on algorithm design and analysis) got accepted by SPAA 2024.  <br>
+      **Mar 2024 -** Derm got accepted by ISCA 2024. <br>
+      **Mar 2024 -** OEF got accepted by Middleware 2024. <br>
+      **Nov 2023 -** Heet  got accepted by ASPLOS 2024. <br>
+      **Oct 2023 -** One paper got accepted by ACM ToCS.  <br>
+      **Jun 2023 -** IADeep got accepted by SC 2023. <br>
+      **May 2023 -** PERT-GNN got accepted by KDD 2023. <br>
+      **Feb 2023 -** One paper got accepted by TPDS. <br>
+      **Jan 2023 -** Optum got accepted by Eurosys 2023. <br>
       '
     design:
       columns: '1'
