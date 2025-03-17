@@ -45,9 +45,9 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - PhD Student
+  - Template
 
-# 【7 个人想展示的社交账号】Social/Academic Networking
+# 【7 个人想展示的社交信息和主页】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
