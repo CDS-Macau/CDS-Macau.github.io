@@ -8,7 +8,7 @@ last_name: Mo
 
 
 # 【3 年份】Role/position
-role: 2025 - Current
+role: 2021 - Current
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -16,9 +16,9 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: None
+bio: 
 
-interests: None
+interests: 
 
 
 education:
