@@ -51,18 +51,20 @@ user_groups:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:test@example.org'
+  - icon: circle-user
+    icon_pack: fas 
+    link: 'https://www.fst.um.edu.mo/personal/huanlexu/'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:huanlexu@um.edu.mo'
+  
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-   - icon: homepage
-     icon_pack: fab
-     link: https://www.fst.um.edu.mo/personal/huanlexu/
+   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -83,4 +85,6 @@ authors:
 superuser: true
 ---
 
+I am currently an assistant professor from the Department of Computer and Information Scicence, Univeristy of Macau. 
 
+#[Homepage](https://www.fst.um.edu.mo/personal/huanlexu/)

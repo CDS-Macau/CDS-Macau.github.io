@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My current research interests are broadly in the intersection between systems and machine learning, performance optimization and efficient scheduling of LLM systems for instance.
+bio: I am a 4th-year CS undergraduate student at Beihang University.
 
 interests:
 
