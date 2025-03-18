@@ -1,14 +1,14 @@
 ---
 # 【1 in English】Display name 
-title: Wenyan Chen
+title: Hanqin Zhuang
 
 # 【2 in English】Full name (for SEO)
-first_name: Wenyan 
-last_name: Chen 
+first_name: Hanqin
+last_name: Zhuang
 
 
 # 【3 年份】Role/position
-role: 2021 - Current
+role: 2023 - Current
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -16,23 +16,17 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include resource management and task scheduling in GPU clusters.
-
-interests:
-  - GPU Virtualization
-  - Systems for ML
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 education:
   courses:
-    - course: PhD in Computer Science
+    - course: MSC in Artificial Inteligence
       institution: University of Macau
-      year: 2021~Current
-    - course: MSc in Software Engineering
-      institution: Northeast Normal University
-      year: 2016~2019
-    - course: BSc in Software Engineering 
-      institution: Zhengzhou University
-      year: 2012~2016 
+      year: 2023-Current
+    - course: BSc in Mathematics and Applied Mathematics
+      institution: Lanzhou University
+      year: 2020
+
 
 # 【6 身份，下面其中一个】Organizational groups that you belong to (for People widget)
 #  
@@ -44,16 +38,16 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - PhD Student 
+  - Master Student
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:yc17498@um.edu.mo'
+  #  - icon: envelope
+  #    icon_pack: fas
+  #    link: 'mailto:chenliaao@gmail.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -62,7 +56,7 @@ social:
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   # - icon: github
   #   icon_pack: fab
-  #   link: https://github.com/chenwenyan
+  #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'yc17498@um.edu.mo'
+#email: 'yc27909@umac.mo'
 
 
 
@@ -83,4 +77,4 @@ authors:
 superuser: false
 ---
 
-
+Hanqin Zhuang is a master's student specializing in Artificial Intelligence, with a strong passion for leveraging AI to solve complex problems. His current focus is in the area of Machine Learning Systems (MLsys) in improving efficiency of inference tasks.

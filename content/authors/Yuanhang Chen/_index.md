@@ -26,7 +26,7 @@ interests:
 education:
   courses:
     - course: PhD
-      institution: Stanford University
+      institution: University of Macau
       year: 2023-Current
     - course: MEng
       institution: Sun Yat-sen University
@@ -84,4 +84,4 @@ authors:
 superuser: false
 ---
 
-Yuanhang Chen is currently pursuing his PhD at the University of Macau, specializing in FL systems.
+Yuanhang Chen is currently pursuing his PhD at the University of Macau, under the supervision of Professor Huanle Xu. His research primarily centers on FL systems.
