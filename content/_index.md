@@ -49,15 +49,14 @@ sections:
       title: "Research Topics"
       text: '
       <br>
-      Our research combines ....
       A non-exhaustive list of research topics studied in our group include:
       <br>
       <ul>
-        <li>**Microservice analysis and resource management**</li>
-          <ul>Investigate the microservice architecture in a  large scale and design efficient resource management algorithms.</ul>
-        <li>**Intelligent deep learning in large-scale GPU clusters**</li>
-          <ul>Implement intelligent online resource management schemes in heterogeneous/homogeneous GPU clusters to maximise resource efficiency.</ul>
-        <li>**Unified scheduling algorithm design for large-scale cloud platforms**</li>
+        <li>**Microservice characterization and resource management**</li>
+          <ul>Investigate the microservice architecture in a large scale and implement optimized cloud native systems for higher resource efficiency.</ul>
+        <li>**System Support for Deep Learning Systems**</li>
+          <ul>Employ system and algorithm co-design in heterogeneous/homogeneous GPU clusters to support efficient distributed deep learning, including both training and inference.</ul>
+        <li>**Unified scheduling systems for large-scale cloud platforms**</li>
           <ul>Design unified schedulers in large-scale data centers to balance the trade-off between application performance, resource utilisation, and scheduling scalability.</ul>
       </ul>
       '
