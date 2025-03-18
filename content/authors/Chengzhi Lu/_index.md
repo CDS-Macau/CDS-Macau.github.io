@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include resource manangement and task scheduling in the large scale cluster.
+bio: My research interests include resource management and task scheduling in the large scale cluster.
 
 interests:
   - Resource Management

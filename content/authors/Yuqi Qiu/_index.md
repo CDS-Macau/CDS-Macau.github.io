@@ -16,24 +16,24 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include singing, dancing, rapping, and basketball. Music.
+bio: My research interests also include singing, dancing, rapping, and basketball. Music.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distributed Inference for LLM
+  - DRL
+  - Resource Management for Microservices
 
 education:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
+    - course: PhD in LLM Inference Optimization
+      institution: University of Macau
+      year: 2024 - Current
     - course: MSc in Computer Science and Technology
       institution: Harbin Institute of Technology
-      year: 2024
+      year: 2021 - 2024
     - course: BSc in Computer Science and Technology
       institution: Shandong University
-      year: 2021
+      year: 2017 - 2021
 
 # 【6 身份，下面其中一个】Organizational groups that you belong to (for People widget)
 #  
@@ -52,9 +52,9 @@ user_groups:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:test@example.org'
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:yc47436@connect.um.edu.mo'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -83,5 +83,5 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 ---
-
-全民制作人大家好。我是练习时长半年的个人练习生邱雨奇，喜欢唱，跳，Rap，篮球。Music.
+Yuqi Qiu is currently pursuing his PhD at the University of Macau, specializing in LLM Inference Optimization. 
+His research primarily focuses on distributed inference, DRL, and resource management for microservices.
