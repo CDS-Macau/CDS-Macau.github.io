@@ -15,11 +15,11 @@ author_notes:
   - ''
   - ''
 
-date: '2023-01-13'
+date: '2022-01-13'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-01-13'
+publishDate: '2022-01-13'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
