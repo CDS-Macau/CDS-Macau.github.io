@@ -15,11 +15,11 @@ author_notes:
   - ''
   - ''
 
-date: '2022-08-05'
+date: '2023-01-13'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-08-05'
+publishDate: '2023-01-13'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -30,7 +30,7 @@ publication_types: ['paper-conference']
 publication: In *International Conference on Parallel Processing (ICPP) 2022*
 publication_short: In *ICPP 2022*
 
-abstract: To mitigate the straggler effect, today’s systems and computing frameworks have adopted redundancy to launch extra copies for stragglers. Two limitations of the existing straggler-mitigation techniques, however, are that resource demand of tasks is only considered in the context of slots and, moreover, redundancy is seldom coordinated with job scheduling. To tackle these issues, in this paper, we present DollyMP, a job scheduler that addresses multiresource scheduling with task cloning in heterogeneous clusters. DollyMP carefully combines SRPT (Shortest Remaining ProcessingTime) and SVF (Smallest Volume First) via knapsack optimization to schedule tasks with multi-resource demands and, in the meanwhile, dynamically launches task clones to yield a small job completion time. DollyMP is built on a strong mathematical foundation to guarantee near-optimal performance. The deployment of our Hadoop YARN prototype on a 30-node cluster demonstrates that DollyMP can reduce job response time by 50% under different cluster loads.
+abstract: "To mitigate the straggler effect, today’s systems and computing frameworks have adopted redundancy to launch extra copies for stragglers. Two limitations of the existing straggler-mitigation techniques, however, are that resource demand of tasks is only considered in the context of slots and, moreover, redundancy is seldom coordinated with job scheduling. To tackle these issues, in this paper, we present DollyMP, a job scheduler that addresses multi-resource scheduling with task cloning in heterogeneous clusters. DollyMP carefully combines SRPT (Shortest Remaining Processing Time) and SVF (Smallest Volume First) via knapsack optimization to schedule tasks with multi-resource demands and, in the meanwhile, dynamically launches task clones to yield a small job completion time. DollyMP is built on a strong mathematical foundation to guarantee near-optimal performance. The deployment of our Hadoop YARN prototype on a 30-node cluster demonstrates that DollyMP can reduce job response time by 50% under different cluster loads."
 # Summary. An optional shortened abstract.
 summary: 
 

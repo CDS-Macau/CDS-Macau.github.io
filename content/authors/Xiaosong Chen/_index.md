@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interest includes online algorithm and its application to cloud-edge systems.
 
 interests:
   - Online Algorithm

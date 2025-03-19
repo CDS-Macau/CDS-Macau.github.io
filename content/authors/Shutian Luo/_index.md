@@ -1,14 +1,14 @@
 ---
 # 【1 in English】Display name 
-title: Liao Chen
+title: Shutian Luo
 
 # 【2 in English】Full name (for SEO)
-first_name: Liao
-last_name: Chen
+first_name: Shutian 
+last_name: Luo
 
 
 # 【3 年份】Role/position
-role: 2022 - Current
+role: 2021-2024 PhD Student
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -16,25 +16,21 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed system and cloud computing.
+bio: 
 
 interests:
-  - Freedom of time and money
-  - Cloud Computing
-  - Distributed System
-
 
 education:
-  courses:
-    - course: PhD in Computer Science
-      institution: University of Macau
-      year: 2022-Current
-    - course: MEng in Computer Science and Technology
-      institution: Sichuan University
-      year: 2021
-    - course: BSc in Digital Media Technology
-      institution: Shandong University
-      year: 2018
+  # courses:
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    # - course: MEng in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2009
+    # - course: BSc in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2008
 
 # 【6 身份，下面其中一个】Organizational groups that you belong to (for People widget)
 #  
@@ -46,16 +42,16 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - PhD Student
+  - Alumni
 
-# 【7 个人想展示的社交账号】Social/Academic Networking
+# 【7 个人想展示的社交信息和主页】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-   - icon: envelope
-     icon_pack: fas
-     link: 'mailto:chenliaao@gmail.com'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:test@example.org'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -72,7 +68,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'chenliaao@gmail.com'
+email: ''
 
 
 
@@ -84,5 +80,4 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 ---
-
-Liao Chen is currently pursuing his PhD at the University of Macau, where he specializes in the field of distributed systems. His research primarily centers on resource management, with a particular focus on microservices frameworks.
+Shutian Luo is now a Postdoc in Yale University.

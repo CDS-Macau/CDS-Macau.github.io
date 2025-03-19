@@ -34,7 +34,7 @@ sections:
       title: "About CDS Lab"
       subtitle: ''
       text: "
-      **CDS Lab**(Cloud and Distributed Systems Lab) is from the Department of Computer and Information Science at University of Macau, led by Prof. Huanle Xu.
+      **CDS Lab**(Cloud and Distributed Systems Lab) is from the Department of Computer and Information Science at University of Macau, led by Prof. [Huanle Xu](https://www.fst.um.edu.mo/personal/huanlexu/).
       "
     design:
       columns: '2'
