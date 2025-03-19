@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: I am a 4th-year CS undergraduate student at Beihang University.
+bio: I am a incoming CS PhD student at University of Macau.
 
 interests:
 
