@@ -17,6 +17,12 @@ organizations:
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
+interests:
+  - Cloud Computing
+  - Reinforcement Learning
+  - AI for Science
+  - Zero-shot Learning
+  - Yield Optimization
 
 education:
   courses:
