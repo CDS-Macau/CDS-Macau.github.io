@@ -8,7 +8,7 @@ last_name: Luo
 
 
 # 【3 年份】Role/position
-role: 2021-2024 PhD Student
+role: 2021-2023 PhD Student
 
 # 【4 组织】Organizations/Affiliations
 organizations:

@@ -16,11 +16,11 @@ author_notes:
   - 'Corresponding Author'
   - ''
 
-date: '2024-01-01'
+date: '2024-12-02'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-01'
+publishDate: '2024-12-02'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
