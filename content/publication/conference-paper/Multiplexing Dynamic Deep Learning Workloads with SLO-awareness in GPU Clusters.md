@@ -29,7 +29,7 @@ publishDate: '2025-03-01'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The European Conference on Computer Systems*
+publication: In *The European Conference on Computer Systems (Eurosys) 2025*
 publication_short: In *Eurosys 2025*
 
 abstract: In this paper, we introduce Mudi, a new SLO-aware system designed to optimize the utilization of GPU resources within large-scale clusters. Mudi achieves this by efficiently multiplexing DL inference services with training tasks through spatial sharing. The fundamental concept behind Mudi involves profiling the latency of inference services using a piece-wise linear function that accurately captures resource interference. Leveraging this quantification of interference, Mudi designs a scalable cluster-wide co-location policy, determining the optimal multiplexing of training tasks and inference services to maximize resource efficiency. Furthermore, Mudi incorporates adaptive batching and resource scaling mechanisms to rapidly adapt to the dynamic workloads. Experimental results demonstrate that Mudi improves 42% of GPU resource utilization and achieves up to 2.27x higher training efficiency while satisfying inference SLOs, as compared to state-of-the-art multiplexing methods.
