@@ -44,6 +44,9 @@ user_groups:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+  - icon: circle-user
+    icon_pack: fas 
+    link: 'https://higiraffe.github.io'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:chenjulian.buaa@gmail.com'

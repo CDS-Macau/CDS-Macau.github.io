@@ -3,14 +3,14 @@ title: "Optimizing Resource Management for Shared Microservices: A Scalable Syst
 
 # 【1 改作者】Authors
 authors:
-- Shutian Luo
-- Chenyu Lin 
-- Kejiang Ye
-- Guoyao Xu
-- Liping Zhang 
-- Guodong Yang 
-- Huanle Xu 
-- Chengzhong Xu 
+  - Shutian Luo
+  - Chenyu Lin 
+  - Kejiang Ye
+  - Guoyao Xu
+  - Liping Zhang 
+  - Guodong Yang 
+  - Huanle Xu 
+  - Chengzhong Xu 
 
 # 【如果需要特别申明作者信息，不需要可以注释，- "" 可以跳过作者】
 author_notes:

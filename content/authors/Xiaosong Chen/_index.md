@@ -54,7 +54,7 @@ user_groups:
 social:
    - icon: envelope
      icon_pack: fas
-     link: 'mailto:chenliaao@gmail.com'
+     link: 'mailto:yc27909@umac.mo'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -84,4 +84,4 @@ authors:
 superuser: false
 ---
 
-Xiaosong Chen is currently pursuing his PhD at the University of Macau, specializing in the design and analysis of online algorithms. His research focuses primarily on online learning with bandit problems, with a strong interest in its applications to cloud-edge systems.
+Xiaosong Chen is currently pursuing his PhD at the University of Macau, specializing in the design and analysis of online algorithms. His research focuses primarily on online learning with bandit problems, with a strong interest in its applications to cloud-edge systems. Occasionally distracted by the allure of KFC's Crazy Thursday.
