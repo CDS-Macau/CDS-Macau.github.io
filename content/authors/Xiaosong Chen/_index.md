@@ -84,4 +84,4 @@ authors:
 superuser: false
 ---
 
-Xiaosong Chen is currently pursuing his PhD at the University of Macau, specializing in the design and analysis of online algorithms. His research focuses primarily on online learning with bandit problems, with a strong interest in its applications to cloud-edge systems. Occasionally distracted by the allure of KFC's Crazy Thursday.
+Xiaosong Chen is currently pursuing his PhD at the University of Macau, focusing on the design and analysis of online algorithm, with a strong interest in its applications to cloud-edge systems. Occasionally swayed by the allure of KFC's Crazy Thursday.
