@@ -4,7 +4,7 @@ title: "Combinatorial Multi-Armed Bandits with Fairness Constraints: An Online C
 # 【1 改作者】Authors
 authors:
   - Xiaosong Chen
-  - Hanqing Zhuang 
+  - Hanqin Zhuang 
   - Yang Liu
   - Huanle Xu
   - Wing Cheong Lau 
