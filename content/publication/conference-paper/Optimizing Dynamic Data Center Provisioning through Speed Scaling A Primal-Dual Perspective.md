@@ -1,5 +1,5 @@
 ---
-title: 'Optimizing Dynamic Data Center Provisioning through Speed Scaling A Primal-Dual Perspective'
+title: 'Optimizing Dynamic Data Center Provisioning through Speed Scaling: A Primal-Dual Perspective'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
