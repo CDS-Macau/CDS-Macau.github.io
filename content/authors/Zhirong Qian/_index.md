@@ -1,14 +1,14 @@
 ---
 # 【1 in English】Display name 
-title: Chengzhong Xu
+title: Zhirong Qian
 
 # 【2 in English】Full name (for SEO)
-first_name: Chengzhong 
-last_name: Xu 
+first_name: Zhirong
+last_name: Qian
 
 
 # 【3 年份】Role/position
-role: 2019 - Current
+role: 2025 - Current
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -16,23 +16,22 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: I am currently a Chair Professor in the Department of Computer and Information Science and serve as the Dean of the Faculty of Science and Technology at the University of Macau.
+bio: My research interests include distributed system and ML systems.
 
 interests:
-  - Artificial Intelligence
+  - ML systems
   - Cloud Computing
+  - Distributed System
 
-#education:
-#  courses:
-#    - course: PhD in Computer Science
-#      institution: University of Chinese Academy of Sciences
-#      year: 2025 
-#    - course: MSc in Software Engineering
-#      institution: Zhejiang University
-#      year: 2018
-#    - course: BSc in Computer Science 
-#      institution: Wuhan University
-#      year: 2016 
+
+education:
+  courses:
+    - course: PhD in Computer Science
+      institution: University of Macau
+      year: 2025-Current
+    - course: BSc in Artificial Intelligence
+      institution: Beijing Normal University
+      year: 2025
 
 # 【6 身份，下面其中一个】Organizational groups that you belong to (for People widget)
 #  
@@ -44,27 +43,25 @@ interests:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - Professor 
+  - PhD Student
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: circle-user
-    icon_pack: fas 
-    link: 'https://www.fst.um.edu.mo/personal/czxu/'
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:czxu@um.edu.mo'
-  
+   - icon: envelope
+     icon_pack: fas
+     link: 'mailto:zr.qian@outlook.com'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
   # - icon: google-scholar
   #   icon_pack: ai
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-   
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,7 +69,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'czxu@um.edu.mo'
+email: 'zr.qian@outlook.com'
 
 
 
@@ -82,8 +79,7 @@ authors:
   - 
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 ---
 
-I am currently a Chair Professor in the Department of Computer and Information Science and serve as the Dean of the Faculty of Science and Technology at the University of Macau.
-
+I am currently pursuing my PhD at the University of Macau, fortunately supervised by Prof. Chengzhong Xu and Prof. Huanle Xu. My research primarily centers on ML systems, with a particular focus on systems for LLMs.

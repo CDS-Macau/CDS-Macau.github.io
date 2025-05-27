@@ -1,14 +1,14 @@
 ---
 # 【1 in English】Display name 
-title: Liao Chen
+title: Huanyu Qu
 
 # 【2 in English】Full name (for SEO)
-first_name: Liao
-last_name: Chen
+first_name: Huanyu
+last_name: Qu
 
 
 # 【3 年份】Role/position
-role: 2022 - Current
+role: 2023 - Current
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -16,25 +16,24 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed system and cloud computing.
+bio: My research interests include parallel and distributed systems and computer architecture.
 
 interests:
-  - Freedom of time and money
-  - Cloud Computing
-  - Distributed System
-
+  - Computer Architecture for Machine Learning
+  - Distributed Systems for Machine Learning
+  - Compilers for Neural Networks
 
 education:
   courses:
     - course: PhD in Computer Science
       institution: University of Macau
-      year: 2022-Current
-    - course: MEng in Computer Science and Technology
-      institution: Sichuan University
-      year: 2021
-    - course: BSc in Digital Media Technology
-      institution: Shandong University
-      year: 2018
+      year: 2023-Current
+    - course: MEng in Electronics and Information Engineering
+      institution: Tsinghua University
+      year: 2020-2023
+    - course: BEng in Instrument Science and Technology
+      institution: Tsinghua University
+      year: 2016-2020
 
 # 【6 身份，下面其中一个】Organizational groups that you belong to (for People widget)
 #  
@@ -55,7 +54,7 @@ user_groups:
 social:
    - icon: envelope
      icon_pack: fas
-     link: 'mailto:chenliaao@gmail.com'
+     link: 'mailto:yc37960@um.edu.mo'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
@@ -72,7 +71,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'chenliaao@gmail.com'
+email: 'yc37960@um.edu.mo'
 
 
 
@@ -85,4 +84,4 @@ authors:
 superuser: false
 ---
 
-Liao Chen is currently pursuing his PhD at the University of Macau, where he specializes in the field of distributed systems. His research primarily centers on resource management, with a particular focus on microservices frameworks.
+Huanyu Qu is currently pursuing his PhD at the University of Macau, where he specializes in the fields of parallel and distributed systems and computer architecture. His research focuses on machine learning systems, compilers, and hardware architectures, with particular emphasis on novel architectures and distributed training systems for large language models.
