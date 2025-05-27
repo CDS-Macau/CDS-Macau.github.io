@@ -34,7 +34,7 @@ sections:
       title: "About CDS Lab"
       subtitle: ''
       text: "
-      **CDS Lab**(Cloud and Distributed Systems Lab) is from the Department of Computer and Information Science at University of Macau, led by Prof. [Huanle Xu](https://www.fst.um.edu.mo/personal/huanlexu/). The lab specializes in designing and implementing innovative software solutions at the OS and middleware layers for large-scale cloud and distributed systems. By tackling critical challenges in scalability, efficiency, and reliability, CDS Lab strives to optimize application performance and maximize resource utilization in complex computing environments. 
+      **CDS Lab**(Cloud and Distributed Systems Lab) is from the Department of Computer and Information Science at University of Macau, led by Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) and Prof. [Huanle Xu](https://www.fst.um.edu.mo/personal/huanlexu/). The lab specializes in designing and implementing innovative software solutions at the OS and middleware layers for large-scale cloud and distributed systems. By tackling critical challenges in scalability, efficiency, and reliability, CDS Lab strives to optimize application performance and maximize resource utilization in complex computing environments. 
       "
     design:
       columns: '2'
