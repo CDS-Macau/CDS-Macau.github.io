@@ -8,7 +8,7 @@ last_name: Xu
 
 
 # 【3 年份】Role/position
-role: 2021.01 - Current
+role: 2021 - Current
 
 # 【4 组织】Organizations/Affiliations
 organizations:
