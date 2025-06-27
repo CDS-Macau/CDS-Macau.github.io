@@ -72,6 +72,8 @@ sections:
     content:
       title: "News"
       text: '
+      **Jun 2025 -** Hetis got accepted by SC 2025. <br>
+      **Jun 2025 -** Congratulations to Zizhao for successfully defending his PhD thesis! <br>
       **Mar 2025 -** FFT got Accepted by ICS 2025.  <br>
       **Jan 2025 -** Imbres got accepted by ASPLOS 2025. <br>
       **Dec 2024 -** FastPERT got accepted by AAAI 2025. <br>
