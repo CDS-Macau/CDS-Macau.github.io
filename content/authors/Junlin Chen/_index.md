@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: I am a incoming CS PhD student at University of Macau.
+bio: .
 
 interests:
 
@@ -44,9 +44,9 @@ user_groups:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: circle-user
-    icon_pack: fas 
-    link: 'https://higiraffe.github.io'
+  # - icon: circle-user
+  #   icon_pack: fas 
+  #   link: 'https://higiraffe.github.io'
   - icon: envelope
     icon_pack: fas
     link: 'mailto:chenjulian.buaa@gmail.com'
@@ -79,6 +79,6 @@ authors:
 superuser: false
 ---
 
-I am a 4th-year CS undergraduate student at Beihang University. I am also an exchange student at University of Macau. I will be a first-year PhD student at University of Macau in August 2025, under the supervision of Prof. Huanle Xu.
+<!-- I am a 4th-year CS undergraduate student at Beihang University. I am also an exchange student at University of Macau. I will be a first-year PhD student at University of Macau in August 2025, under the supervision of Prof. Huanle Xu. -->
 
 My current research interests are broadly in the intersection between systems and machine learning.

@@ -20,7 +20,7 @@ author_notes:
   - ''
 
 date: '2025-06-27'
-doi: ' '
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-06-27'
