@@ -8,7 +8,7 @@ last_name: Chen
 
 
 # 【3 年份】Role/position
-role: 2021 - Current
+role: 2021 - 2025
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -26,7 +26,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Macau
-      year: 2021~Current
+      year: 2021~2025
     - course: MSc in Software Engineering
       institution: Northeast Normal University
       year: 2016~2019
@@ -44,7 +44,7 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - PhD Student 
+  - Alumni
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -82,5 +82,5 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 ---
-
+Wenyan Chen is now a Postdoc in Nanyang Technological University. 
 

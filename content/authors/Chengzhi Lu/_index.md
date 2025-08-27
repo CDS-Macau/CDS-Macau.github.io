@@ -8,7 +8,7 @@ last_name: Lu
 
 
 # 【3 年份】Role/position
-role: 2025 - Current
+role: 2022 - 2025
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - Postdoc 
+  - Alumni 
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -82,5 +82,5 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 ---
-
+Chengzhi Lu is now a Postdoc in Nanyang Technological University. 
 

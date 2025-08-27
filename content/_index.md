@@ -72,6 +72,7 @@ sections:
     content:
       title: "News"
       text: '
+      **Aug 2025 -** Congratulations to Wenyan for successfully defending her PhD thesis!<br>
       **Jun 2025 -** Hetis got accepted by SC 2025. <br>
       **Jun 2025 -** Congratulations to Zizhao for successfully defending his PhD thesis! <br>
       **Mar 2025 -** FFT got Accepted by ICS 2025.  <br>

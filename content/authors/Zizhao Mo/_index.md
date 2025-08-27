@@ -8,7 +8,7 @@ last_name: Mo
 
 
 # 【3 年份】Role/position
-role: 2021 - Current
+role: 2025 - Current
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -23,12 +23,15 @@ interests:
 
 education:
   courses:
-    - course: BSc in Software Engineering
-      institution: South China University of Technology
-      year: 2018
+    - course: PhD in Computer and Information Science
+      institution: University of Macau
+      year: 2025
     - course: MSc in Information Technology
       institution: Hong Kong University of Science and Technology
       year: 2021
+    - course: BSc in Software Engineering
+      institution: South China University of Technology
+      year: 2018
 
 # 【6 身份，下面其中一个】Organizational groups that you belong to (for People widget)
 #  
@@ -40,7 +43,7 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - PhD Student
+  - Postdoc
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
