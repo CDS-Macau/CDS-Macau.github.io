@@ -8,11 +8,11 @@ last_name: Lu
 
 
 # 【3 年份】Role/position
-role: 2022 - 2025
+role: 2022 - 2025 Postdoc
 
 # 【4 组织】Organizations/Affiliations
 organizations:
-  - name: University of Macau
+  - name: University of Macau Postdoc
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)

@@ -8,7 +8,7 @@ last_name: Liao
 
 
 # 【3 年份】Role/position
-role: 2024 - Current
+role: 2024 - 2025 RA
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -37,7 +37,8 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - Research Assistant
+  # - Research Assistant
+  - Alumni
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'liaojx9@mail2.sysu.edu.cn'
@@ -51,4 +52,4 @@ authors:
 superuser: false
 ---
 
-I am a research assistant in the University of Macau, supervised by Professor Huanle Xu. I am currently a second-year Ph.D. student in Sun Yat-sen University, under the supervision of Professor Zhi Zhou.
+I am currently a third-year Ph.D. student in Sun Yat-sen University, under the supervision of Professor Zhi Zhou.
