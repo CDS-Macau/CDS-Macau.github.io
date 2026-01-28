@@ -72,7 +72,8 @@ sections:
     content:
       title: "News"
       text: '
-      **Sep 2025 -** FedDance got accepted by SoCC 2025.<br>
+      **Dec 2025 -** FedSUV got accepted by INFOCOM 2026. <br>
+      **Sep 2025 -** FedDance got accepted by SoCC 2025. <br>
       **Aug 2025 -** Congratulations to Wenyan for successfully defending her PhD thesis!<br>
       **Jun 2025 -** Hetis got accepted by SC 2025. <br>
       **Jun 2025 -** Congratulations to Zizhao for successfully defending his PhD thesis! <br>
