@@ -72,6 +72,7 @@ sections:
     content:
       title: "News"
       text: '
+      **Jan 2026 -** eLLM got accepted by Eurosys 2026. <br>
       **Dec 2025 -** FedSUV got accepted by INFOCOM 2026. <br>
       **Sep 2025 -** FedDance got accepted by SoCC 2025. <br>
       **Aug 2025 -** Congratulations to Wenyan for successfully defending her PhD thesis!<br>
