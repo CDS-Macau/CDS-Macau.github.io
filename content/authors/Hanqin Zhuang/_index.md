@@ -8,7 +8,7 @@ last_name: Zhuang
 
 
 # 【3 年份】Role/position
-role: 2023 - Current
+role: 2023 - 2026
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ education:
   courses:
     - course: MSC in Artificial Inteligence
       institution: University of Macau
-      year: 2023-Current
+      year: 2023-2026
     - course: BSc in Mathematics and Applied Mathematics
       institution: Lanzhou University
       year: 2020
@@ -44,7 +44,7 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - Master Student
+  - Alumni
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
