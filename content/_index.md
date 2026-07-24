@@ -56,8 +56,8 @@ sections:
           <ul>Investigate the microservice architecture in a large scale and implement optimized cloud native systems for higher resource efficiency.</ul>
         <li>**System Support for Deep Learning Systems**</li>
           <ul>Employ system and algorithm co-design in heterogeneous/homogeneous GPU clusters to support efficient distributed deep learning, including both training and inference.</ul>
-        <li>**Unified scheduling systems for large-scale cloud platforms**</li>
-          <ul>Design unified schedulers in large-scale data centers to balance the trade-off between application performance, resource utilisation, and scheduling scalability.</ul>
+        <li>**Infrastructure for Agentic AI Systems**</li>
+          <ul>Design scalable systems for large-scale Agentic AI training and inference system, including memory management, sandbox environment, RL post training, fault tolerance, and energy efficiency.</ul>
       </ul>
       '
     design:
@@ -72,6 +72,7 @@ sections:
     content:
       title: "News"
       text: '
+      **July 2026-** ETH got accepted by NSDI 2027. <br>
       **Mar 2026 -** Cremes conditionally accepted by HPDC 2026. <br>
       **Feb 2026 -** Omniserve got accepted by SIGMOD 2026. <br>
       **Jan 2026 -** eLLM got accepted by Eurosys 2026. <br>
