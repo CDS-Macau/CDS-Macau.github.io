@@ -56,7 +56,7 @@ sections:
           <ul>Investigate the microservice architecture in a large scale and implement optimized cloud native systems for higher resource efficiency.</ul>
         <li>**System Support for Deep Learning Systems**</li>
           <ul>Employ system and algorithm co-design in heterogeneous/homogeneous GPU clusters to support efficient distributed deep learning, including both training and inference.</ul>
-        <li>**Infrastructure for Agentic AI Systems**</li>
+        <li>**Infrastructure for Agentic AI**</li>
           <ul>Design scalable systems for large-scale Agentic AI training and inference system, including memory management, sandbox environment, RL post training, fault tolerance, and energy efficiency.</ul>
       </ul>
       '
