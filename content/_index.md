@@ -72,7 +72,8 @@ sections:
     content:
       title: "News"
       text: '
-      **July 2026-** ETH got accepted by NSDI 2027. <br>
+      **Aug 2026 -** Congratulations to Chen Liao and Xiaosong for successfully defending their PhD thesis!<br>
+      **July 2026 -** ETH got accepted by NSDI 2027. <br>
       **Mar 2026 -** Cremes conditionally accepted by HPDC 2026. <br>
       **Feb 2026 -** Omniserve got accepted by SIGMOD 2026. <br>
       **Jan 2026 -** eLLM got accepted by Eurosys 2026. <br>
@@ -93,10 +94,6 @@ sections:
       **Mar 2024 -** OEF got accepted by Middleware 2024. <br>
       **Nov 2023 -** Heet  got accepted by ASPLOS 2024. <br>
       **Oct 2023 -** One paper got accepted by ACM ToCS.  <br>
-      **Jun 2023 -** IADeep got accepted by SC 2023. <br>
-      **May 2023 -** PERT-GNN got accepted by KDD 2023. <br>
-      **Feb 2023 -** One paper got accepted by TPDS. <br>
-      **Jan 2023 -** Optum got accepted by Eurosys 2023. <br>
       '
     design:
       columns: '1'
