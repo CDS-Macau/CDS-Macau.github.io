@@ -8,7 +8,7 @@ last_name: Chen
 
 
 # 【3 年份】Role/position
-role: 2022 - Current
+role: 2022 - 2026 PhD Student
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed system and cloud computing.
+bio: Liao Chen is preparing to join Sichuan University as an Assistant Professor.
 
 interests:
   - Freedom of time and money
@@ -46,7 +46,7 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - PhD Student
+  - Alumni
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -85,4 +85,4 @@ authors:
 superuser: false
 ---
 
-Liao Chen is currently pursuing his PhD at the University of Macau, where he specializes in the field of distributed systems. His research primarily centers on resource management, with a particular focus on microservices frameworks.
+Liao Chen is preparing to join Sichuan University as an Assistant Professor.

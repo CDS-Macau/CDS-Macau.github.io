@@ -8,7 +8,7 @@ last_name: Chen
 
 
 # 【3 年份】Role/position
-role: 2021 - 2025 PhD student
+role: 2021 - 2025 PhD Student
 
 # 【4 组织】Organizations/Affiliations
 organizations:

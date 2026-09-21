@@ -8,7 +8,7 @@ last_name: Chen
 
 
 # 【3 年份】Role/position
-role: 2022 - Current
+role: 2022 - 2026 PhD Student
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - PhD Student
+  - Alumni
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

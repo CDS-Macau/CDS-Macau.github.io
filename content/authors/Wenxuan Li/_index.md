@@ -7,7 +7,7 @@ first_name: Wenxuan
 last_name: Li
 
 # 【3 年份】Role/position
-role: 2024 - Current
+role: 2024 - 2026 Master Student
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -15,7 +15,7 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Wenxuan Li is currently working at Huawei's Automotive Business Unit (Car BU).
 
 interests:
   - MLsys
@@ -33,7 +33,7 @@ education:
 # 【6 身份，下面其中一个】Organizational groups that you belong to (for People widget)
 #  
 user_groups:
-  - Master Student
+  - Alumni
 
 # 【7 个人想展示的社交信息和主页】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -69,3 +69,5 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 ---
+
+Wenxuan Li is currently working at Huawei's Automotive Business Unit (Car BU).

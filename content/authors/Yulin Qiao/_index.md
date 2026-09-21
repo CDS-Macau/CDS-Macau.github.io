@@ -8,7 +8,7 @@ last_name: Qiao
 
 
 # 【3 年份】Role/position
-role: 2024 - Current
+role: 2024 - 2026 Master Student
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: My research interests include LLMs and Distributed Systems.I am also interested in Principle of Automatic Control.
+bio: Yulin Qiao is currently pursuing his PhD at the University of Science and Technology of China.
 
 interests:
   - Artificial Intelligence
@@ -39,7 +39,7 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - Master Student
+  - Alumni
 
 # 【7 个人想展示的社交信息和主页】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -78,4 +78,4 @@ authors:
 superuser: false
 ---
 
-My research interests include LLMs and Distributed Systems.I am also interested in Principle of Automatic Control.
+Yulin Qiao is currently pursuing his PhD at the University of Science and Technology of China.

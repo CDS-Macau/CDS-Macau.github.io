@@ -8,7 +8,7 @@ last_name: Mo
 
 
 # 【3 年份】Role/position
-role: 2025 - Current
+role: 2025 - 2026 Postdoc
 
 # 【4 组织】Organizations/Affiliations
 organizations:
@@ -16,7 +16,7 @@ organizations:
     url: ''
 
 # 【5 个人信息】Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Zizhao Mo is an Assistant Professor at Great Bay University.
 
 interests: 
 
@@ -43,7 +43,7 @@ education:
 # - Visiting Scholar
 # - Alumni
 user_groups:
-  - Postdoc
+  - Alumni
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -85,4 +85,4 @@ authors:
 superuser: false
 ---
 
-None
+Zizhao Mo is an Assistant Professor at Great Bay University.

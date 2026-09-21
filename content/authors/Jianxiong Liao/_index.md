@@ -8,7 +8,7 @@ last_name: Liao
 
 
 # 【3 年份】Role/position
-role: 2024 - 2025 RA
+role: 2024 - 2025 Research Assistant
 
 # 【4 组织】Organizations/Affiliations
 organizations:

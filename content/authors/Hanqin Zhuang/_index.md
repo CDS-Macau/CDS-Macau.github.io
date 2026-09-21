@@ -8,7 +8,7 @@ last_name: Zhuang
 
 
 # 【3 年份】Role/position
-role: 2023 - 2026
+role: 2023 - 2026 Master Student
 
 # 【4 组织】Organizations/Affiliations
 organizations:
