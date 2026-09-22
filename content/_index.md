@@ -72,7 +72,9 @@ sections:
     content:
       title: "News"
       text: '
-      **Aug 2026 -** Congratulations to Chen Liao and Xiaosong for successfully defending their PhD thesis!<br>
+      **Sep 2026 -** Axon got accepted by ATC 2026. <br>
+      **Sep 2026 -** Zizhao Mo joins the Great Bay University as an assistant professor. Cheers! <br>
+      **Aug 2026 -** Congratulations to Chen Liao and Xiaosong for successfully defending their PhD thesis! <br>
       **July 2026 -** ETH got accepted by NSDI 2027. <br>
       **Mar 2026 -** Cremes conditionally accepted by HPDC 2026. <br>
       **Feb 2026 -** Omniserve got accepted by SIGMOD 2026. <br>
@@ -91,9 +93,6 @@ sections:
       **Jun 2024 -** SMIless got accepted by SC 2024. <br>
       **Apr 2024 -** One paper (on algorithm design and analysis) got accepted by SPAA 2024.  <br>
       **Mar 2024 -** Derm got accepted by ISCA 2024. <br>
-      **Mar 2024 -** OEF got accepted by Middleware 2024. <br>
-      **Nov 2023 -** Heet  got accepted by ASPLOS 2024. <br>
-      **Oct 2023 -** One paper got accepted by ACM ToCS.  <br>
       '
     design:
       columns: '1'
