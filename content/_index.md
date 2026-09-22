@@ -34,7 +34,7 @@ sections:
       title: "About CDS Lab"
       subtitle: ''
       text: "
-      **CDS Lab** (Cloud and Distributed Systems Lab) is from the Department of Computer and Information Science at University of Macau, led by Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) and Prof. [Huanle Xu](https://www.fst.um.edu.mo/personal/huanlexu/). The lab specializes in designing and implementing innovative software solutions at the OS and middleware layers for large-scale cloud and distributed systems. By tackling critical challenges in scalability, efficiency, and reliability, CDS Lab strives to optimize application performance and maximize resource utilization in complex computing environments. 
+      **CDS Lab** (Cloud and Distributed Systems Lab) is from the Department of Computer Science at University of Macau, led by Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) and Prof. [Huanle Xu](https://www.fst.um.edu.mo/personal/huanlexu/). The lab specializes in designing and implementing innovative software solutions at the OS and middleware layers for large-scale cloud and distributed systems. By tackling critical challenges in scalability, efficiency, and reliability, CDS Lab strives to optimize application performance and maximize resource utilization in complex computing environments. 
       "
     design:
       columns: '2'
@@ -55,9 +55,9 @@ sections:
         <li>**Microservice characterization and resource management**</li>
           <ul>Investigate the microservice architecture in a large scale and implement optimized cloud native systems for higher resource efficiency.</ul>
         <li>**System Support for Deep Learning Systems**</li>
-          <ul>Employ system and algorithm co-design in heterogeneous/homogeneous GPU clusters to support efficient distributed deep learning, including both training and inference.</ul>
+          <ul>Employ system and algorithm co-design in heterogeneous/homogeneous GPU clusters to support large-scale distributed deep learning, including both training and inference.</ul>
         <li>**Infrastructure for Agentic AI**</li>
-          <ul>Design scalable systems for large-scale Agentic AI training and inference system, including memory management, sandbox environment, RL post training, fault tolerance, and energy efficiency.</ul>
+          <ul>Design scalable systems for large-scale Agentic AI training and inference systems, including memory management, sandbox environment, RL post training, fault tolerance, and energy efficiency.</ul>
       </ul>
       '
     design:
