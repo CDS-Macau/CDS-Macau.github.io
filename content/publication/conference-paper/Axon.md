@@ -20,7 +20,7 @@ authors:
 author_notes:
   - 'Co-first Author'
   - 'Co-first Author'
-  - ''
+  - 'Co-first Author'
   - ''
   - ''
   - 'Corresponding Author'
