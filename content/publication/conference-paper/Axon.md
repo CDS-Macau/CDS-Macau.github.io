@@ -9,7 +9,7 @@ authors:
   - Jinting Zou
   - Zizhao Mo
   - Junlin Chen
-  - Liao Che
+  - Liao Chen
   - Huanle Xu
   - Guoyao Xu
   - Guodong Yang
