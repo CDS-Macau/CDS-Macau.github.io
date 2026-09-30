@@ -115,7 +115,30 @@ sections:
           - Master Student
           - Research Assistant
           - Visiting Scholar
-          - Alumni
+      sort_by: Params.role
+      sort_ascending: true
+    design:
+      show_interests: false
+      show_role: true
+      show_social: false
+
+  # Alumni
+  - block: people
+    id: alumni
+    content:
+      title: Alumni
+      # Keep Alumni in each profile and add one subgroup based on the role held in the lab.
+      user_groups:
+          - Postdoc Alumni
+          - PhD Alumni
+          - Master Alumni
+          - RA Alumni
+      # Display labels are separate from membership tags; keys are lowercase.
+      user_group_labels:
+        postdoc alumni: Postdoc
+        phd alumni: PhD
+        master alumni: Master
+        ra alumni: RA
       sort_by: Params.role
       sort_ascending: true
     design:

@@ -45,6 +45,7 @@ education:
 # - Alumni
 user_groups:
   - Alumni 
+  - Postdoc Alumni
 
 # 【7 个人想展示的社交账号】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

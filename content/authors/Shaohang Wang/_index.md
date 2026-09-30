@@ -23,7 +23,7 @@ education:
       year: 2026 - Current
     - course: MSc in Computer Science
       institution: The University of Hong Kong
-      year: 2025 - 2026
+      year: 2023 - 2025
     - course: BSc in Computer Science
       institution: Shanghai University
       year: 2019 - 2023

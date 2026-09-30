@@ -34,6 +34,7 @@ education:
 #  
 user_groups:
   - Alumni
+  - Master Alumni
 
 # 【7 个人想展示的社交信息和主页】Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
