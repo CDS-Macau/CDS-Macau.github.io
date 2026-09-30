@@ -1,43 +1,39 @@
 ---
-title: ' ETH: Data-Balanced Heterogeneous Pipeline Parallelism for Training Large Models'
+title: 'Axon: Asynchronous Global KV-Aware Scheduling Across Distributed Instances for Agentic Workloads'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Mianjie Yu
-  - Zhongmin Zhao
+  - Yuqi Qiu
+  - Jinting Zou
   - Zizhao Mo
-  - Jianxiong Liao
-  - Wenxuan Li
-  - Yulin Qiao
+  - Junlin Chen
+  - Liao Chen
   - Huanle Xu
-  - Wenquan Yang
-  - Yongqiang Yang
-  - Zeren Li
-  - Ruifeng Tang
+  - Guoyao Xu
+  - Guodong Yang
+  - Liping Zhang
   - Chengzhong Xu
 
 # Author notes (optional)
 author_notes:
+  - 'Co-first Author'
+  - 'Co-first Author'
+  - 'Co-first Author'
   - ''
   - ''
-  - ''
-  - ''
-  - ''
-  - ''
+  - 'Corresponding Author'
   - 'Corresponding Author'
   - ''
   - ''
   - ''
-  - ''
-  - ''
 
-date: '2027-05-11'
+date: '2026-09-20'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2026-07-24'
+publishDate: '2026-09-20'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -45,8 +41,8 @@ publishDate: '2026-07-24'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of 24th USENIX Symposium on Networked Systems Design and Implementation*
-publication_short: In *NSDI 2027*
+publication: In *Proceedings of the 2026 ACM SIGOPS Annual Technical Conference*
+publication_short: In *ATC 2026*
 
 abstract: "TBD. "
 summary: 

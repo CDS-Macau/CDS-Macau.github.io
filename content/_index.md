@@ -34,7 +34,7 @@ sections:
       title: "About CDS Lab"
       subtitle: ''
       text: "
-      **CDS Lab** (Cloud and Distributed Systems Lab) is from the Department of Computer and Information Science at University of Macau, led by Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) and Prof. [Huanle Xu](https://www.fst.um.edu.mo/personal/huanlexu/). The lab specializes in designing and implementing innovative software solutions at the OS and middleware layers for large-scale cloud and distributed systems. By tackling critical challenges in scalability, efficiency, and reliability, CDS Lab strives to optimize application performance and maximize resource utilization in complex computing environments. 
+      **CDS Lab** (Cloud and Distributed Systems Lab) is from the Department of Computer Science at University of Macau, led by Prof. [Chengzhong Xu](https://www.fst.um.edu.mo/personal/czxu/) and Prof. [Huanle Xu](https://www.fst.um.edu.mo/personal/huanlexu/). The lab specializes in designing and implementing innovative software solutions at the OS and middleware layers for large-scale cloud and distributed systems. By tackling critical challenges in scalability, efficiency, and reliability, CDS Lab strives to optimize application performance and maximize resource utilization in complex computing environments. 
       "
     design:
       columns: '2'
@@ -55,9 +55,9 @@ sections:
         <li>**Microservice characterization and resource management**</li>
           <ul>Investigate the microservice architecture in a large scale and implement optimized cloud native systems for higher resource efficiency.</ul>
         <li>**System Support for Deep Learning Systems**</li>
-          <ul>Employ system and algorithm co-design in heterogeneous/homogeneous GPU clusters to support efficient distributed deep learning, including both training and inference.</ul>
+          <ul>Employ system and algorithm co-design in heterogeneous/homogeneous GPU clusters to support large-scale distributed deep learning, including both training and inference.</ul>
         <li>**Infrastructure for Agentic AI**</li>
-          <ul>Design scalable systems for large-scale Agentic AI training and inference system, including memory management, sandbox environment, RL post training, fault tolerance, and energy efficiency.</ul>
+          <ul>Design scalable systems for large-scale Agentic AI training and inference systems, including memory management, sandbox environment, RL post training, fault tolerance, and energy efficiency.</ul>
       </ul>
       '
     design:
@@ -72,7 +72,9 @@ sections:
     content:
       title: "News"
       text: '
-      **Aug 2026 -** Congratulations to Chen Liao and Xiaosong for successfully defending their PhD thesis!<br>
+      **Sep 2026 -** Axon got accepted by ATC 2026. <br>
+      **Sep 2026 -** Zizhao Mo joins the Great Bay University as an assistant professor. Cheers! <br>
+      **Aug 2026 -** Congratulations to Chen Liao and Xiaosong for successfully defending their PhD thesis! <br>
       **July 2026 -** ETH got accepted by NSDI 2027. <br>
       **Mar 2026 -** Cremes conditionally accepted by HPDC 2026. <br>
       **Feb 2026 -** Omniserve got accepted by SIGMOD 2026. <br>
@@ -91,9 +93,6 @@ sections:
       **Jun 2024 -** SMIless got accepted by SC 2024. <br>
       **Apr 2024 -** One paper (on algorithm design and analysis) got accepted by SPAA 2024.  <br>
       **Mar 2024 -** Derm got accepted by ISCA 2024. <br>
-      **Mar 2024 -** OEF got accepted by Middleware 2024. <br>
-      **Nov 2023 -** Heet  got accepted by ASPLOS 2024. <br>
-      **Oct 2023 -** One paper got accepted by ACM ToCS.  <br>
       '
     design:
       columns: '1'
