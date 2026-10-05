@@ -72,6 +72,7 @@ sections:
     content:
       title: "News"
       text: '
+      **Sep 2026 -** One paper got accepted by TACO. <br>
       **Sep 2026 -** Axon got accepted by ATC 2026. <br>
       **Sep 2026 -** Zizhao Mo joins the Great Bay University as an assistant professor. Cheers! <br>
       **Aug 2026 -** Congratulations to Chen Liao and Xiaosong for successfully defending their PhD thesis! <br>
