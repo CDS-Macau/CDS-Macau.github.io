@@ -39,6 +39,7 @@ education:
 user_groups:
   # - Research Assistant
   - Alumni
+  - RA Alumni
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'liaojx9@mail2.sysu.edu.cn'
